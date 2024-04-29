@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: hand-tracking-app
+Version: 1.0
+Requires-Dist: opencv-python
+Requires-Dist: mediapipe
+Requires-Dist: websocket-client

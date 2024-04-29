@@ -1,0 +1,7 @@
+hit.py
+setup.py
+hand_tracking_app.egg-info/PKG-INFO
+hand_tracking_app.egg-info/SOURCES.txt
+hand_tracking_app.egg-info/dependency_links.txt
+hand_tracking_app.egg-info/requires.txt
+hand_tracking_app.egg-info/top_level.txt
