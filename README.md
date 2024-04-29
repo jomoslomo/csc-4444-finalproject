@@ -4,8 +4,7 @@
 
 For detailed code, setup instructions, and further documentation, please visit the GitHub repository of this project:
 
-**GitHub Repository:** [https://github.com/jomoslomo/csc-4444-finalproject](https://github.com/jomoslomo/csc-4444-finalproject)
-
+**GitHub Repository:** https://github.com/jomoslomo/csc-4444-finalproject
 ## Description
 This project creates a gesture-controlled interface using a combination of web technologies and Python for real-time gesture recognition. The interface allows users to control a 3D visualization environment powered by Three.js through hand gestures captured via a webcam. This interaction is facilitated by a Node.js WebSocket server which communicates between the Python-based gesture recognition module and the Three.js frontend.
 
@@ -26,8 +25,8 @@ This project creates a gesture-controlled interface using a combination of web t
 
 1. **Clone the repository**
     ```bash
-    git clone <repository-url>
-    cd <project-directory>
+    git clone https://github.com/jomoslomo/csc-4444-finalproject
+    cd csc-4444-finalproject
     ```
 
 2. **Setup the Node.js WebSocket Server**
